@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PlantArt</string>
+    <string name="title_activity_splash_inicio">splashInicio</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="user">Full Name</string>
+
+    <string name="password">Password</string>
+    <string name="login">Sing In</string>
+    <string name="singUp">Sign up</string>
+    <string name="loginAccount">Login to your account</string>
+
+    <string name="email">Email</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="newAccount">Create your new account</string>
+    <string name="title_activity_splash_plant_art">splashPlantArt</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="email_phone">Email or Phone Number</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="or_sing_in">-Or Sing in with-</string>
+    <string name="or_sing_up">-Or Sing Up with-</string>
+    <string name="don_t_have_account">Don\'t Have Account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="log_in">Log in</string>
+
+
+</resources>
